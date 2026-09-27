@@ -28,7 +28,7 @@ description: "Phision is an AI quality intelligence layer for pharma manufacturi
 customer: "Quality managers on the day to day, with manufacturing managers in the long-run making strategic decisions"
 
 # Optional. Where a judge can try it.
-live_url: ”https://www.phision.cloud”
+live_url: "https://www.phision.cloud"
 
 # "none" if you started from scratch. Otherwise, what you brought in from before the weekend.
 prior_work: "None"
