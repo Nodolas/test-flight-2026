@@ -1,0 +1,30 @@
+# Copy this file to submissions/<your-slug>.yml and fill it in.
+# The file name must match the slug. Lowercase letters, numbers and hyphens only.
+# First PR due 1:00 PM ET Sunday Sep 27. Code freeze 2:00 PM ET.
+
+team_name: "Vista AI"
+slug: "vista-ai"
+
+# Everyone on the team, 1 to 6 people.
+members:
+  - name: "Emiliano Camacho-Almanza"
+    github: "emiliano800"
+  - name: "Yaphet Lemiesa"
+    github: "ylemiesa57"
+  - name: "Samuel Chen"
+    github: "samueljchen08"
+
+# Public GitHub repo with your code, e.g. https://github.com/you/project
+repo: "https://github.com/vistaaiprod/vistagw"
+
+# One or two sentences, 280 characters max. What it does and for whom.
+description: "Vista is the AI operating platform for private equity rollups. It connects an acquired company's back-office systems, records how employees actually work, and turns that into findings, cross-portfolio opportunities, and reviewed automations that run inside guardrails."
+
+# Who inside a company would use this.
+customer: "Back Office Employees can use the recorder. The executives can view the workflows across the company, and the private equity analysts can view all of the companies."
+
+# Optional. Where a judge can try it.
+live_url: "https://bumpsolutions.org"
+
+# "none" if you started from scratch. Otherwise, what you brought in from before the weekend.
+prior_work: "We have discussed this idea for around a week so we were able to ideate beforehand."
