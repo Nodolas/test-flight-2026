@@ -1,0 +1,28 @@
+# Copy this file to submissions/<your-slug>.yml and fill it in.
+# The file name must match the slug. Lowercase letters, numbers and hyphens only.
+# First PR due 1:00 PM ET Sunday Sep 27. Code freeze 2:00 PM ET.
+
+team_name: "ResSpark"
+slug: "resspark"
+
+# Everyone on the team, 1 to 6 people.
+members:
+  - name: "Zack Hanna"
+    github: "github.com/Metdez"
+  - name: "Andrew Ceniccola"
+    github: "github.com/aceniccola"
+
+# Public GitHub repo with your code, e.g. https://github.com/you/project
+repo: "https://github.com/Metdez/ResSpark"
+
+# One or two sentences, 280 characters max. What it does and for whom.
+description: "Tax resultion product for tax professionals to streamline document processing."
+
+# Who inside a company would use this.
+customer: "case managers, EAs, and CPAs."
+
+# Optional. Where a judge can try it.
+live_url: "https://resspark.vercel.app/"
+
+# "none" if you started from scratch. Otherwise, what you brought in from before the weekend.
+prior_work: "irs qualification python logic (1 python file)"
