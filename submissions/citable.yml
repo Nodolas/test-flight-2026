@@ -1,0 +1,20 @@
+team_name: "Citable"
+slug: "citable"
+
+members:
+  - name: "Cole Leng"
+    github: "ColeLeng"
+  - name: "Ella Cheng"
+    github: "EllaCM"
+  - name: "CJ"
+    github: "crux01x"
+
+repo: "https://github.com/ColeLeng/citable-campaign-loop"
+
+description: "Campaign design for Shopify growth teams: each campaign becomes a measurable test (persona, control, success criteria set up front), a person approves every step, results are read against a control, and approved learnings shape the next campaign."
+
+customer: "Heads of growth at considered-purchase Shopify brands, and the growth agencies that run campaigns for them"
+
+live_url: ""
+
+prior_work: "Citable brand design tokens and the layout of an existing Playbook page. The campaign loop (stats core, plan rules, customer split, readout and gate, learnings) and the demo were built during Test Flight, on synthetic data."
