@@ -1,0 +1,20 @@
+team_name: "Charles River Trading"
+slug: "charles-river-trading"
+
+members:
+  - name: "Rahul Pai"
+    github: "pairahul"
+  - name: "Jake Stein"
+    github: "cojakestein-sketch"
+  - name: "Anthony Kriezis"
+    github: "akriezis999"
+
+repo: "https://github.com/akriezis999/charles_river_trading"
+
+description: "A strategy workbench for quant researchers. Build portfolio strategies from reusable blocks, backtest them on real market data, compare runs side by side, and describe new signals in plain English for AI to turn into validated configs. The math stays deterministic."
+
+customer: "Quant researchers at asset managers. The buyer is the head of quant research or the research platform lead."
+
+live_url: "https://crt-web-hazel.vercel.app"
+
+prior_work: "none"
