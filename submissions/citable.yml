@@ -7,7 +7,7 @@ members:
   - name: "Ella Cheng"
     github: "EllaCM"
 
-repo: "https://github.com/ColeLeng/citable-test-flight"
+repo: "https://github.com/ColeLeng/citable-campaign-loop"
 
 description: "Campaign design for Shopify growth teams: each campaign becomes a measurable test (persona, control, success criteria set up front), a person approves every step, results are read against a control, and approved learnings shape the next campaign."
 
