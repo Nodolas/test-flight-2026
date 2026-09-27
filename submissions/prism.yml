@@ -1,0 +1,23 @@
+team_name: "Prism"
+slug: "prism"
+
+# Everyone on the team, 1 to 6 people.
+members:
+  - name: "Khizar Kashif"
+    github: "khizarkashif"
+  - name: "Elena Jin"
+    github: "elena-jin"
+  - name: "David"
+    github: "Pizzawookiee"
+  - name: "Matthew"
+    github: "CalculusBois"
+
+repo: "https://github.com/khizarkashif/glasswing-fda"
+
+description: "Turns scattered patient feedback from support channels into a human-reviewed FDA-complaint queue and pod-owned product ideas mapped to the roadmap, for Quality and product leads at connected medical-device companies."
+
+customer: "Quality/postmarket and product leads at connected medical-device companies"
+
+live_url: "https://test-flight-console-pearl.vercel.app/"
+
+prior_work: "none"
