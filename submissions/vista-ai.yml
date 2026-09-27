@@ -18,13 +18,13 @@ members:
 repo: "https://github.com/vistaaiprod/vistagw"
 
 # One or two sentences, 280 characters max. What it does and for whom.
-description: "Vista is the AI operating platform for private equity rollups. It connects an acquired company's back-office systems, records how employees actually work, and turns that into evidence-linked findings, cross-portfolio opportunities, and reviewed automations that run inside guardrails."
+description: "Vista is the AI operating platform for private equity rollups. It connects an acquired company's back-office systems, records how employees actually work, and turns that into findings, cross-portfolio opportunities, and reviewed automations that run inside guardrails."
 
 # Who inside a company would use this.
 customer: "Back Office Employees can use the recorder. The executives can view the workflows across the company, and the private equity analysts can view all of the companies."
 
 # Optional. Where a judge can try it.
-live_url: "bumpsolutions.org"
+live_url: "https://bumpsolutions.org"
 
 # "none" if you started from scratch. Otherwise, what you brought in from before the weekend.
 prior_work: "We have discussed this idea for around a week so we were able to ideate beforehand."
